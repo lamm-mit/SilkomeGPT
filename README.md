@@ -11,11 +11,11 @@ Abstract: Spider silks are remarkable materials characterized by superb mechanic
 
 Keywords: biomaterials; deep learning; generative autoregressive transformer; hierarchical; multiscale modeling; spider silk; spidroin
 
-![image](https://github.com/lamm-mit/SilkProteomeGPT/assets/101393859/dfbaf33d-d74c-4170-82cb-a3fec389f8d1)
+![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/bfb2b832-f806-4d5d-9068-0ec982784e93)
 
 The authors develop a generative modeling, design, and analysis technique applied to create novel spider silk protein sequences for enhanced mechanical properties. They create property combinations that do not exist in nature and develop a deep understanding of the mechanistic roles of sequence patterns in achieving overarching key mechanical properties (elastic modulus, strength, toughness, failure strain).
 
-![image](https://github.com/lamm-mit/SilkomeGPT/assets/96086418/3a04b631-3316-4c85-9474-69766f3b3947)
+![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/8661d281-12a8-4507-b610-939377a1b694)
 
 ## Installation
 ```
@@ -41,7 +41,8 @@ jupyter notebook
 ## Schematic of the model implemented
 (a) Summary of the autoregressive decoder-only transformer model architecture, with rotary positional embedding.    
 (b) Overview of modeling approach. A query including the task and relevant context is used to create the responses, with interactions among all elements considered via graph-forming attention mechanisms. Tasks included in this work include the petraining “sequence” task, as well as a “calculate” and a “generate” task. The “calculate” task predicts a set of mechanical properties based on a given sequence, and the “generate” task yields a silk sequence with associated mechanical properties (details see paper). 
-![image](https://github.com/lamm-mit/SilkomeGPT/assets/96086418/8ee503a5-7c92-48c2-a284-de6e8ca8fa30)
+
+![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/599c30af-7ef0-4950-ae92-13c229a982ea)
 
 ## Sample Notebooks
 The sample Notebooks is provided ([Model_inference_V2.ipynb](https://github.com/lamm-mit/SilkomeGPT/blob/73ac8a98c48ee6285f1529b7e0c1debc885086b4/Model_inference_V2.ipynb)) for pidroin sequence prediction and generation    
@@ -51,13 +52,13 @@ The datafile is provided ([ALL_SEQ.csv](https://github.com/lamm-mit/SilkomeGPT/b
 ## Sample results (details, see paper)
 ### Self-consistency Analysis
 Protein sequence property comparison    
-![image](https://github.com/lamm-mit/SilkomeGPT/assets/96086418/037cc865-c7dc-4b26-be15-33c3a7a2d81c)
+![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/ea0f1073-8d69-4d54-8d39-5ac3c9cf76ef)
 
 Motif analysis    
-![image](https://github.com/lamm-mit/SilkomeGPT/assets/96086418/8abd2d97-970b-4e73-8b90-727d12bfdd86)
+![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/5357e500-dae8-41a4-b699-9f949d245150)
 
 Molecular structure comparison    
-![image](https://github.com/lamm-mit/SilkomeGPT/assets/96086418/c40c6d54-05ce-4eb8-a93d-e7696fd7f1fb)
+![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/2f446c2e-f762-44ad-8b85-6caaeecb7c7f)
 
 ## Citation
 To cite this work:
