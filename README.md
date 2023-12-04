@@ -49,9 +49,8 @@ jupyter notebook
 ![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/599c30af-7ef0-4950-ae92-13c229a982ea)
 
 ## Sample Notebooks
-The sample Notebooks is provided ([Model_inference_V2.ipynb](https://github.com/lamm-mit/SilkomeGPT/blob/73ac8a98c48ee6285f1529b7e0c1debc885086b4/Model_inference_V2.ipynb)) for pidroin sequence prediction and generation    
-The inference model can be downloaded from this [link](https://www.dropbox.com/scl/fi/julfytszav7yx4go9b6ai/GPTNeoLAMM_medium_FineTuned_SolSilk_local_works_NEWDATA_F74690ac860b1b87585458a4d620b3686af07d4d.zip?rlkey=i25pn4jkpgpoel9bnymboy9ij&dl=0)    
-The datafile is provided ([ALL_SEQ.csv](https://github.com/lamm-mit/SilkomeGPT/blob/73ac8a98c48ee6285f1529b7e0c1debc885086b4/ALL_SEQ.csv))    
+The sample Notebooks is provided ([[SilkomeGPT_inference.ipynb)]([https://github.com/lamm-mit/SilkomeGPT/blob/73ac8a98c48ee6285f1529b7e0c1debc885086b4/Model_inference_V2.ipynb](https://github.com/lamm-mit/SilkomeGPT/blob/main/SilkomeGPT_inference.ipynb))) for spidroin sequence prediction and generation    
+The trained model can be downloaded from this [link]([https://www.dropbox.com/scl/fi/julfytszav7yx4go9b6ai/GPTNeoLAMM_medium_FineTuned_SolSilk_local_works_NEWDATA_F74690ac860b1b87585458a4d620b3686af07d4d.zip?rlkey=i25pn4jkpgpoel9bnymboy9ij&dl=0](https://huggingface.co/lamm-mit/SilkomeGPT ))    
 
 ## Sample results (details, see paper)
 ### Self-consistency Analysis
