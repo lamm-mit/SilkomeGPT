@@ -11,9 +11,9 @@ Abstract: Spider silks are remarkable materials characterized by superb mechanic
 
 Keywords: biomaterials; deep learning; generative autoregressive transformer; hierarchical; multiscale modeling; spider silk; spidroin
 
-* Pretrained model on Hugging Face 🤗: https://huggingface.co/lamm-mit/SilkomeGPT
+* Pretrained model on Hugging Face 🤗: [https://huggingface.co/lamm-mit/PretrainedSilkomeGPT](https://huggingface.co/lamm-mit/SilkomePretrainedGPT)
 
-* Trained model on Hugging Face 🤗: https://huggingface.co/lamm-mit/SilkomeGPT
+* Trained model on Hugging Face 🤗: [https://huggingface.co/lamm-mit/SilkomeGPT](https://huggingface.co/lamm-mit/SilkomeGPT)
 
 ![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/bfb2b832-f806-4d5d-9068-0ec982784e93)
 
