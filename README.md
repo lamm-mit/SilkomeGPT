@@ -11,9 +11,9 @@ Abstract: Spider silks are remarkable materials characterized by superb mechanic
 
 Keywords: biomaterials; deep learning; generative autoregressive transformer; hierarchical; multiscale modeling; spider silk; spidroin
 
-* Pretrained model on Hugging Face 🤗 : https://huggingface.co/lamm-mit/SilkomeGPT
+* Pretrained model on Hugging Face 🤗: https://huggingface.co/lamm-mit/SilkomeGPT
 
-* Trained model on Hugging Face 🤗 : https://huggingface.co/lamm-mit/SilkomeGPT 
+* Trained model on Hugging Face 🤗: https://huggingface.co/lamm-mit/SilkomeGPT
 
 ![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/bfb2b832-f806-4d5d-9068-0ec982784e93)
 
@@ -49,9 +49,9 @@ jupyter notebook
 ![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/599c30af-7ef0-4950-ae92-13c229a982ea)
 
 ## Sample Notebooks
-A sample Notebooks is provided ([SilkomeGPT_inference.ipynb)]([https://github.com/lamm-mit/SilkomeGPT/blob/73ac8a98c48ee6285f1529b7e0c1debc885086b4/Model_inference_V2.ipynb](https://github.com/lamm-mit/SilkomeGPT/blob/main/SilkomeGPT_inference.ipynb))) for spidroin sequence prediction and generation 
+A sample Notebooks is provided ([SilkomeGPT_inference.ipynb](https://github.com/lamm-mit/SilkomeGPT/blob/main/SilkomeGPT_inference.ipynb)) for spidroin sequence prediction and generation 
 
-The trained model can be downloaded from Hugging Face 🤗 [link]([https://www.dropbox.com/scl/fi/julfytszav7yx4go9b6ai/GPTNeoLAMM_medium_FineTuned_SolSilk_local_works_NEWDATA_F74690ac860b1b87585458a4d620b3686af07d4d.zip?rlkey=i25pn4jkpgpoel9bnymboy9ij&dl=0](https://huggingface.co/lamm-mit/SilkomeGPT ))    
+The trained model can be downloaded from Hugging Face 🤗: https://huggingface.co/lamm-mit/SilkomeGPT
 
 ## Sample results (details, see paper)
 ### Self-consistency Analysis
