@@ -11,9 +11,13 @@ Abstract: Spider silks are remarkable materials characterized by superb mechanic
 
 Keywords: biomaterials; deep learning; generative autoregressive transformer; hierarchical; multiscale modeling; spider silk; spidroin
 
+* Pretrained model on Hugging Face: https://huggingface.co/lamm-mit/SilkomeGPT
+
+* Trained model on Hugging Face: https://huggingface.co/lamm-mit/SilkomeGPT 
+
 ![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/bfb2b832-f806-4d5d-9068-0ec982784e93)
 
-The authors develop a generative modeling, design, and analysis technique applied to create novel spider silk protein sequences for enhanced mechanical properties. They create property combinations that do not exist in nature and develop a deep understanding of the mechanistic roles of sequence patterns in achieving overarching key mechanical properties (elastic modulus, strength, toughness, failure strain).
+We report a generative modeling, design, and analysis technique applied to create novel spider silk protein sequences for enhanced mechanical properties. The model allows us to create property combinations that do not exist in nature and develop a deep understanding of the mechanistic roles of sequence patterns in achieving overarching key mechanical properties (elastic modulus, strength, toughness, failure strain).
 
 ![image](https://github.com/lamm-mit/SilkomeGPT/assets/101393859/8661d281-12a8-4507-b610-939377a1b694)
 
